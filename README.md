@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ ExamAI Pro — AI-Powered Online Examination System
 
 A production-ready, modern frontend for an online exam platform built with React 18, Tailwind CSS, Framer Motion, and Recharts.
@@ -161,3 +162,6 @@ Edit `src/index.css` → `:root` CSS variables (`--accent`, `--green`, `--red`, 
 ## 📄 License
 
 MIT — free to use and modify.
+=======
+# Online-Quiz-System
+>>>>>>> 6bbb2233ffdace486f7e15bbacaeda90569f3767
